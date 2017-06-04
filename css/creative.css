@@ -257,6 +257,9 @@ header .header-content .header-content-inner p {
     }
 }
 
+.headshot {
+    margin: 0 auto;
+}
 .section-heading {
     margin-top: 0;
 }
